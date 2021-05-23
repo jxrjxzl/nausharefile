@@ -58,4 +58,4 @@ CFA系列
 
 `Notes：all keys of URL above are CFA0`
 
-或者关注我们（NAU Analyst），并获取有关CFAer的最新动态！  
+关注我们（NAU Analyst），并获取有关CFAer的最新动态！  
