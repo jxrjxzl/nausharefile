@@ -20,7 +20,7 @@ CFA系列
 
 [CFA SchweserNotes(2020版)](https://pan.baidu.com/s/1S1BrrVCD-JvIhc_XXLBMFA)
 
-[CFA原版教材（2019版）书后习题](
+[CFA原版教材（2019版）书后习题](https://pan.baidu.com/s/1nEfcLS1ccFXAkZS5B2qGbg?qq-pf-to=pcqq.c2c#list/path=%2F)
 
 大一下：
 
@@ -57,3 +57,5 @@ CFA系列
 计量经济学
 
 `Notes：all keys of URL above are CFA0`
+
+或者关注我们（NAU Analyst），并获取有关CFAer的最新动态！  
