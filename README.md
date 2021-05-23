@@ -1,4 +1,4 @@
-![LOGO](pics/LOGO.png)
+<img src="pics/LOGO.png" alt="LOGO" style="zoom:150%;" />
 
 <div align = center><h1>CFA 编辑部</h1></div>
 
