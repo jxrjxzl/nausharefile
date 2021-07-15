@@ -133,39 +133,27 @@ CFA系列
 
 
 
+大一上：
+
+高数（5）；政治经济学（3）；思修（3）；计算机基础（2）英语（3）
+
 大一下：
 
-微观经济学
-
-[《西方经济学》（上册）马工程教材](https://tinyurl.com/yecqcfbz )
-
-[《西方经济学》马工程习题与解答](https://tinyurl.com/yjyznwwf)
+微观经济学（3）；The Code of Ethics and Standards（2）；高数（5）；近代史纲要（3）；英语（3）
 
 大二上：
 
-宏观经济学
-
-[《西方经济学》（下册）马工程教材](https://tinyurl.com/yzf2qr2z)
-
-金融学
+宏观经济学（3）；金融学（3）；会计学（3）；概率论与数理统计（4）；毛概（5）；管理学（3）；英语（3）
 
 大二下：
 
-商业银行业务经营与管理
+商业银行业务与经营（3）；财政学（3）；统计学（3）；FSA(财务报表分析)（4）；QM(定量分析)（3）；
 
-[商业银行业务经营与管理 第二版 曹源芳](https://tinyurl.com/yjbs4pe7)
-
-财政学
-
-统计学
-
-[统计学 贾俊平（第7版）](https://tinyurl.com/ydr2t57p )
-
-[统计学 贾俊平（第7版）学习指导书](https://tinyurl.com/ygep7z2q )
+线性代数（3）；马原（3）；
 
 大三上：
 
-计量经济学
+计量经济学（3）；Corporate Finance（3）；Equity Investment and Portfolio Management（4）
 
 
 
