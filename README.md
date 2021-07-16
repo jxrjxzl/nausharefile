@@ -169,8 +169,13 @@ Derivatives and Alternative Investment（2）
 
 
 
+## 学科竞赛与商赛
 
-## 学科竞赛
+数学竞赛；
+
+英语竞赛；
+
+数学建模；
 
 ## 考研信息
 
@@ -180,6 +185,44 @@ Derivatives and Alternative Investment（2）
 
 ## 论文与行业研究
 
-`Notes：all keys of URL above are CFA0`
+## 推荐阅读
+
+[大学金融教学内容探讨](https://www.zhihu.com/question/28199696)
+
+[大学金融数学进阶](https://www.zhihu.com/question/33251531)
+
+[大学经济类书籍](https://www.zhihu.com/question/19661829/answer/131091118)
+
+[大学经济对数学的要求](https://www.zhihu.com/question/19956188)
+
+
+
+
+
+`以上提取码均为： CFA0`
 
 *声明：本网站旨在建立一个属于NAU CFAer 的交流社区。欢迎任何形式的支持与助力，让我们一起共享优秀的资源和信息！由于本站资源均来自网络，故无法核实资源侵权的真实性，并可能存在部分资源损害到您的合法权益，如有此类情况发生，请您积极与管理员联系，我们会立即删除相关内容，感谢您的支持！*
+
+友情链接：
+
+[南京审计大学课程共享计划](https://github.com/jxrjxzl/naulivingmanual)
+
+[北京大学课程攻略共享计划](https://github.com/lib-pku/libpku)
+
+[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+
+[上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+
+[东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
+
+[南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+
+[中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+
+[郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+
+
+
+联系方式
+
+[zhenglinjame@163.com](zhenglinjame@163.com)
