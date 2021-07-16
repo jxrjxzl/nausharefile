@@ -149,12 +149,23 @@ CFA系列
 
 商业银行业务与经营（3）；财政学（3）；统计学（3）；FSA(财务报表分析)（4）；QM(定量分析)（3）；
 
-线性代数（3）；马原（3）；
+线性代数（3）；马原（3）；实验（2）；
 
 大三上：
 
-计量经济学（3）；Corporate Finance（3）；Equity Investment and Portfolio Management（4）
+计量经济学（3）；Corporate Finance（3）；Equity Investment and Portfolio Management（4）；Economic（2）
 
+大三下：
+
+Fixed Income（2）；实验（2）；金融工程学（3）; International Settlement（3）; 
+
+Derivatives and Alternative Investment（2）
+
+大四上：
+
+专业选修课（七选五，都是两学分）
+
+保险学；风险投资学；行为金融学；金融风险管理；国际金融学；中央银行与金融监管；金融数据分析技术 
 
 
 
